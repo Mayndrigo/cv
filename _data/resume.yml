@@ -1,12 +1,12 @@
 # IMPORTANT: Set this to false.
-demo: true
+demo: false
 
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
 photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
-name: "Elle Kasai"
-copy: "I'm a product designer based in BC, Canada. I'm currently working for Actcat which makes a code reviewing service called SideCI (https://sideci.com/)."
+name: "Mayara Nunes Drigo"
+copy: "Atuando na área de desenvolvimento Web na Baixada Santista. Experiência em projetos utilizando Zend Framework e WordPress."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
@@ -18,4 +18,4 @@ copy: "I'm a product designer based in BC, Canada. I'm currently working for Act
 # - purple
 # - teal
 # - green
-color: default
+color: pink
